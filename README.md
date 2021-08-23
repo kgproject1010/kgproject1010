@@ -10,3 +10,9 @@ ___
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=kgproject1010)
 
 </details
+
+### Let's connect!
+<p>
+    <a href="https://t.me/knsgnwn" target="blank"><img src="https://img.shields.io/badge/@knsgnwn-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://instagram.com/knsgnwn_" target="blank"><img src="https://img.shields.io/badge/@knsgnwn_-30302f?style=flat&logo=instagram" /></a>
+</p>
